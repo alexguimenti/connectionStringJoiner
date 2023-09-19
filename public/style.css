@@ -16,14 +16,11 @@
 }
 
 .convert-button {
-    margin-bottom: 100px;
+  margin-bottom: 100px;
 }
 
 .URL-input {
-  white-space: pre-wrap;
-  overflow-wrap: break-word;
-  width: 100%;
-  height: 100px;
+  height: 15em;
 }
 
 .URL-input,
@@ -31,7 +28,6 @@
 .db-input {
   border-radius: 4px 0px 0px 4px;
   width: 30em;
-  text-align: left;
   border: 2px solid #eeeeee;
   background: #eeeeee;
   outline: none;
